@@ -2,7 +2,13 @@
 
 BookNest is a full-stack e-commerce platform for books, built with the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless experience for book lovers to browse, purchase, and manage books online.
 
-![BookNest Logo](https://via.placeholder.com/800x400?text=BookNest+Book+Store)
+## Demo video
+
+
+
+https://github.com/user-attachments/assets/c5b19c3c-4e0c-42df-b34d-0f2a9b5c1e34
+
+
 
 ## 🌟 Features
 
